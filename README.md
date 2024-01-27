@@ -1,2 +1,4 @@
-# Basics
-Software Engineering Basics Workshop
+# CS3704 SE Basics Workshop
+Arav Tripathi
+Hello GitHub!
+
